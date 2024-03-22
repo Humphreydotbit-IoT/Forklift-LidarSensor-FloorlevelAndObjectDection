@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For inquiries or support, please contact:
-- [Tunjrsanaung](mailto:tunjrsanaung@gmail.com) (GitHub: [tunaungwai](https://github.com/tunaungwai), LinkedIn: [tunaungwai](https://www.linkedin.com/in/tunaungwai/))
+- Email: [tunaungwai](mailto:tunjrsanaung@gmail.com)  LinkedIn: [tunaungwai](https://www.linkedin.com/in/tunaungwai/)
 
 ## Contribution
 
