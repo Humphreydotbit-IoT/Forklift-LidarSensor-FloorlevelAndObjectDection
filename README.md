@@ -2,7 +2,7 @@
 
 ![309](https://github.com/Humphreydotbit-IoT/Forklift-LidarSensor-FloorlevelAndObjectDection/assets/164144789/e0826926-b030-4dc8-b8e6-a392678e5e93)
 
----
+# Forklift Monitoring System
 
 This project utilizes two TF Mini LIDAR sensors and an ESP32 WROOM S3 microcontroller to monitor a forklift's operation and environment in real-time.
 
@@ -19,8 +19,6 @@ This project utilizes two TF Mini LIDAR sensors and an ESP32 WROOM S3 microcontr
 
 - **OTA Update:**
   - AsyncElegantOTA method is implemented for Over-The-Air (OTA) updates to facilitate future software updates.
-
----
 
 ## Dependencies
 
@@ -56,4 +54,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For inquiries or support, please contact:
-- [Your Name](mailto:your.email@example.com)
+- [Tunjrsanaung](mailto:tunjrsanaung@gmail.com) (GitHub: [tunaungwai](https://github.com/tunaungwai), LinkedIn: [tunaungwai](https://www.linkedin.com/in/tunaungwai/))
+
+## Contribution
+
+Contributions are welcome! To contribute to this project:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
+
+Happy hacking!
+
